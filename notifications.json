@@ -1,0 +1,192 @@
+[
+  {
+    "type": "sms",
+    "to": "7439743007",
+    "message": "SASVA OTP: 629300 valid for 5 min. Do not share. Govt Scheme Portal.",
+    "timestamp": "2026-09-12T04:04:05.092585",
+    "status": "simulated_sent",
+    "note": "Twilio credentials not set - Set TWILIO_* in .env for real SMS. This is logged as sent for demo."
+  },
+  {
+    "type": "sms",
+    "to": "7439743007",
+    "message": "SASVA OTP: 386373 valid for 5 min. Do not share. Govt Scheme Portal.",
+    "timestamp": "2026-09-12T04:04:34.568763",
+    "status": "simulated_sent",
+    "note": "Twilio credentials not set - Set TWILIO_* in .env for real SMS. This is logged as sent for demo."
+  },
+  {
+    "type": "sms",
+    "to": "7439743007",
+    "message": "SASVA OTP: 687993 valid for 5 min. Do not share. Govt Scheme Portal.",
+    "timestamp": "2026-09-12T04:04:36.136156",
+    "status": "simulated_sent",
+    "note": "Twilio credentials not set - Set TWILIO_* in .env for real SMS. This is logged as sent for demo."
+  },
+  {
+    "type": "sms",
+    "to": "7439743007",
+    "message": "SASVA OTP: 653196 valid for 5 min. Do not share. Govt Scheme Portal.",
+    "timestamp": "2026-09-12T04:04:37.169669",
+    "status": "simulated_sent",
+    "note": "Twilio credentials not set - Set TWILIO_* in .env for real SMS. This is logged as sent for demo."
+  },
+  {
+    "type": "sms",
+    "to": "7439743007",
+    "message": "SASVA OTP: 984801 valid for 5 min. Do not share. Govt Scheme Portal.",
+    "timestamp": "2026-09-12T04:04:40.060296",
+    "status": "simulated_sent",
+    "note": "Twilio credentials not set - Set TWILIO_* in .env for real SMS. This is logged as sent for demo."
+  },
+  {
+    "type": "sms",
+    "to": "7439743007",
+    "message": "SASVA OTP: 799713 valid for 5 min. Do not share. Govt Scheme Portal.",
+    "timestamp": "2026-09-12T04:04:41.172479",
+    "status": "simulated_sent",
+    "note": "Twilio credentials not set - Set TWILIO_* in .env for real SMS. This is logged as sent for demo."
+  },
+  {
+    "type": "sms",
+    "to": "7439743007",
+    "message": "SASVA OTP: 918002 valid for 5 min. Do not share. Govt Scheme Portal.",
+    "timestamp": "2026-09-12T04:04:42.427287",
+    "status": "simulated_sent",
+    "note": "Twilio credentials not set - Set TWILIO_* in .env for real SMS. This is logged as sent for demo."
+  },
+  {
+    "type": "email",
+    "to": "snehamalakar71@gmail.com",
+    "subject": "SASVA - Your OTP for Login",
+    "timestamp": "2026-09-12T04:04:53.164895",
+    "status": "simulated_sent",
+    "message": "Email credentials not set in .env - Set EMAIL_USER and EMAIL_PASS for real sending. In production, this would send real email.",
+    "body_preview": "Your OTP for SASVA Portal login is: 550134\nValid for 5 minutes. Do not share with anyone.\n\nSASVA - Govt Scheme Matching Portal"
+  },
+  {
+    "type": "email",
+    "to": "snehamalakar71@gmail.com",
+    "subject": "SASVA - Your OTP for Login",
+    "timestamp": "2026-09-12T04:04:56.726990",
+    "status": "simulated_sent",
+    "message": "Email credentials not set in .env - Set EMAIL_USER and EMAIL_PASS for real sending. In production, this would send real email.",
+    "body_preview": "Your OTP for SASVA Portal login is: 854695\nValid for 5 minutes. Do not share with anyone.\n\nSASVA - Govt Scheme Matching Portal"
+  },
+  {
+    "type": "email",
+    "to": "snehamalakar71@gmail.com",
+    "subject": "SASVA - Your OTP for Login",
+    "timestamp": "2026-09-12T04:04:57.690364",
+    "status": "simulated_sent",
+    "message": "Email credentials not set in .env - Set EMAIL_USER and EMAIL_PASS for real sending. In production, this would send real email.",
+    "body_preview": "Your OTP for SASVA Portal login is: 958770\nValid for 5 minutes. Do not share with anyone.\n\nSASVA - Govt Scheme Matching Portal"
+  },
+  {
+    "type": "email",
+    "to": "snehamalakar71@gmail.com",
+    "subject": "SASVA - Your OTP for Login",
+    "timestamp": "2026-09-12T04:04:58.862696",
+    "status": "simulated_sent",
+    "message": "Email credentials not set in .env - Set EMAIL_USER and EMAIL_PASS for real sending. In production, this would send real email.",
+    "body_preview": "Your OTP for SASVA Portal login is: 804785\nValid for 5 minutes. Do not share with anyone.\n\nSASVA - Govt Scheme Matching Portal"
+  },
+  {
+    "type": "email",
+    "to": "snehamalakar71@gmail.com",
+    "subject": "SASVA - Your OTP for Login",
+    "timestamp": "2026-09-12T04:04:59.828304",
+    "status": "simulated_sent",
+    "message": "Email credentials not set in .env - Set EMAIL_USER and EMAIL_PASS for real sending. In production, this would send real email.",
+    "body_preview": "Your OTP for SASVA Portal login is: 312864\nValid for 5 minutes. Do not share with anyone.\n\nSASVA - Govt Scheme Matching Portal"
+  },
+  {
+    "type": "email",
+    "to": "snehamalakar71@gmail.com",
+    "subject": "SASVA - Your OTP for Login",
+    "timestamp": "2026-09-12T04:05:11.834347",
+    "status": "simulated_sent",
+    "message": "Email credentials not set in .env - Set EMAIL_USER and EMAIL_PASS for real sending. In production, this would send real email.",
+    "body_preview": "Your OTP for SASVA Portal login is: 282113\nValid for 5 minutes. Do not share with anyone.\n\nSASVA - Govt Scheme Matching Portal"
+  },
+  {
+    "type": "email",
+    "to": "snehamalakar71@gmail.com",
+    "subject": "SASVA - Your OTP for Login",
+    "timestamp": "2026-09-12T04:05:13.065876",
+    "status": "simulated_sent",
+    "message": "Email credentials not set in .env - Set EMAIL_USER and EMAIL_PASS for real sending. In production, this would send real email.",
+    "body_preview": "Your OTP for SASVA Portal login is: 990927\nValid for 5 minutes. Do not share with anyone.\n\nSASVA - Govt Scheme Matching Portal"
+  },
+  {
+    "type": "email",
+    "to": "snehamalakar71@gmail.com",
+    "subject": "SASVA - Your OTP for Login",
+    "timestamp": "2026-09-12T04:05:14.188516",
+    "status": "simulated_sent",
+    "message": "Email credentials not set in .env - Set EMAIL_USER and EMAIL_PASS for real sending. In production, this would send real email.",
+    "body_preview": "Your OTP for SASVA Portal login is: 952967\nValid for 5 minutes. Do not share with anyone.\n\nSASVA - Govt Scheme Matching Portal"
+  },
+  {
+    "type": "email",
+    "to": "snehamalakar71@gmail.com",
+    "subject": "SASVA - Your OTP for Login",
+    "timestamp": "2026-09-12T04:05:15.271198",
+    "status": "simulated_sent",
+    "message": "Email credentials not set in .env - Set EMAIL_USER and EMAIL_PASS for real sending. In production, this would send real email.",
+    "body_preview": "Your OTP for SASVA Portal login is: 284083\nValid for 5 minutes. Do not share with anyone.\n\nSASVA - Govt Scheme Matching Portal"
+  },
+  {
+    "type": "email",
+    "to": "snehamalakar71@gmail.com",
+    "subject": "SASVA - Your OTP for Login",
+    "timestamp": "2026-09-12T04:05:16.420058",
+    "status": "simulated_sent",
+    "message": "Email credentials not set in .env - Set EMAIL_USER and EMAIL_PASS for real sending. In production, this would send real email.",
+    "body_preview": "Your OTP for SASVA Portal login is: 430537\nValid for 5 minutes. Do not share with anyone.\n\nSASVA - Govt Scheme Matching Portal"
+  },
+  {
+    "type": "email",
+    "to": "snehamalakar71@gmail.com",
+    "subject": "SASVA - Your OTP for Login",
+    "timestamp": "2026-09-12T04:05:17.565685",
+    "status": "simulated_sent",
+    "message": "Email credentials not set in .env - Set EMAIL_USER and EMAIL_PASS for real sending. In production, this would send real email.",
+    "body_preview": "Your OTP for SASVA Portal login is: 714912\nValid for 5 minutes. Do not share with anyone.\n\nSASVA - Govt Scheme Matching Portal"
+  },
+  {
+    "type": "email",
+    "to": "snehamalakar71@gmail.com",
+    "subject": "SASVA - Your OTP for Login",
+    "timestamp": "2026-09-12T04:05:18.664003",
+    "status": "simulated_sent",
+    "message": "Email credentials not set in .env - Set EMAIL_USER and EMAIL_PASS for real sending. In production, this would send real email.",
+    "body_preview": "Your OTP for SASVA Portal login is: 166400\nValid for 5 minutes. Do not share with anyone.\n\nSASVA - Govt Scheme Matching Portal"
+  },
+  {
+    "type": "email",
+    "to": "snehamalakar71@gmail.com",
+    "subject": "SASVA - Your OTP for Login",
+    "timestamp": "2026-09-12T04:05:19.937648",
+    "status": "simulated_sent",
+    "message": "Email credentials not set in .env - Set EMAIL_USER and EMAIL_PASS for real sending. In production, this would send real email.",
+    "body_preview": "Your OTP for SASVA Portal login is: 800680\nValid for 5 minutes. Do not share with anyone.\n\nSASVA - Govt Scheme Matching Portal"
+  },
+  {
+    "type": "email",
+    "to": "snehamalakar71@gmail.com",
+    "subject": "SASVA - Your OTP for Login",
+    "timestamp": "2026-09-12T04:05:21.151785",
+    "status": "simulated_sent",
+    "message": "Email credentials not set in .env - Set EMAIL_USER and EMAIL_PASS for real sending. In production, this would send real email.",
+    "body_preview": "Your OTP for SASVA Portal login is: 798239\nValid for 5 minutes. Do not share with anyone.\n\nSASVA - Govt Scheme Matching Portal"
+  },
+  {
+    "type": "sms",
+    "to": "7439743007",
+    "message": "SASVA OTP: 224826 valid for 5 min. Do not share. Govt Scheme Portal.",
+    "timestamp": "2026-09-12T04:06:11.540572",
+    "status": "simulated_sent",
+    "note": "Twilio credentials not set - Set TWILIO_* in .env for real SMS. This is logged as sent for demo."
+  }
+]

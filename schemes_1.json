@@ -1,0 +1,3582 @@
+[
+  {
+    "id": "S001",
+    "name": "Pradhan Mantri MUDRA Yojana (PMMY)",
+    "name_hi": "Pradhan Mantri MUDRA Yojana (PMMY) योजना",
+    "name_bn": "Pradhan Mantri MUDRA Yojana (PMMY) প্রকল্প",
+    "category": "Financial Support",
+    "ministry": "Ministry of Finance",
+    "description": "Provides collateral-free loans up to 10 lakhs to micro enterprises. SC/ST/OBC, women special focus. Special focus on marginalized entrepreneurs, SC/ST/OBC, women, street vendors, SHG members and rural youth of India.",
+    "description_hi": "Provides collateral-free loans up to 10 lakhs to micro enterprises. SC/ST/OBC, women special focus. हाशिए पर रहने वाले उद्यमियों पर विशेष ध्यान।",
+    "description_bn": "Provides collateral-free loans up to 10 lakhs to micro enterprises. SC/ST/OBC, women special focus. প্রান্তিক উদ্যোক্তাদের উপর বিশেষ ফোকাস।",
+    "benefits": "Loan up to 10 Lakh, Subsidy, Training, Market linkage, Handholding support",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Transgender"
+      ],
+      "income_max": 1500000,
+      "business_types": [
+        "Manufacturing",
+        "Trading",
+        "Services",
+        "Agriculture",
+        "Street Vending",
+        "Handicraft",
+        "SHG",
+        "Food Processing"
+      ],
+      "min_age": 18,
+      "states": [
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "PAN",
+      "Business Proof",
+      "Caste Certificate if applicable",
+      "Bank Statement",
+      "Project Report"
+    ],
+    "loan_amount": "Loan up to 10 Lakh",
+    "application_link": "https://www.mudra.org.in/",
+    "tags": [
+      "SC",
+      "ST",
+      "OBC",
+      "Women",
+      "Marginalized",
+      "Entrepreneur"
+    ]
+  },
+  {
+    "id": "S002",
+    "name": "Stand-Up India Scheme",
+    "name_hi": "Stand-Up India Scheme योजना",
+    "name_bn": "Stand-Up India Scheme প্রকল্প",
+    "category": "Financial Support",
+    "ministry": "Ministry of Finance",
+    "description": "Bank loans 10 lakh to 1 Crore to SC/ST and woman borrower per branch for greenfield enterprise. Special focus on marginalized entrepreneurs, SC/ST/OBC, women, street vendors, SHG members and rural youth of India.",
+    "description_hi": "Bank loans 10 lakh to 1 Crore to SC/ST and woman borrower per branch for greenfield enterprise. हाशिए पर रहने वाले उद्यमियों पर विशेष ध्यान।",
+    "description_bn": "Bank loans 10 lakh to 1 Crore to SC/ST and woman borrower per branch for greenfield enterprise. প্রান্তিক উদ্যোক্তাদের উপর বিশেষ ফোকাস।",
+    "benefits": "10 Lakh - 1 Cr, Subsidy, Training, Market linkage, Handholding support",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Transgender"
+      ],
+      "income_max": 1500000,
+      "business_types": [
+        "Manufacturing",
+        "Trading",
+        "Services",
+        "Agriculture",
+        "Street Vending",
+        "Handicraft",
+        "SHG",
+        "Food Processing"
+      ],
+      "min_age": 18,
+      "states": [
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "PAN",
+      "Business Proof",
+      "Caste Certificate if applicable",
+      "Bank Statement",
+      "Project Report"
+    ],
+    "loan_amount": "10 Lakh - 1 Cr",
+    "application_link": "https://www.standupmitra.in/",
+    "tags": [
+      "SC",
+      "ST",
+      "OBC",
+      "Women",
+      "Marginalized",
+      "Entrepreneur"
+    ]
+  },
+  {
+    "id": "S003",
+    "name": "PM Employment Generation Programme (PMEGP)",
+    "name_hi": "PM Employment Generation Programme (PMEGP) योजना",
+    "name_bn": "PM Employment Generation Programme (PMEGP) প্রকল্প",
+    "category": "Financial Support",
+    "ministry": "Ministry of MSME",
+    "description": "Credit-linked subsidy for micro enterprises in rural/urban. Special category higher subsidy 35% for SC/ST/Women. Special focus on marginalized entrepreneurs, SC/ST/OBC, women, street vendors, SHG members and rural youth of India.",
+    "description_hi": "Credit-linked subsidy for micro enterprises in rural/urban. Special category higher subsidy 35% for SC/ST/Women. हाशिए पर रहने वाले उद्यमियों पर विशेष ध्यान।",
+    "description_bn": "Credit-linked subsidy for micro enterprises in rural/urban. Special category higher subsidy 35% for SC/ST/Women. প্রান্তিক উদ্যোক্তাদের উপর বিশেষ ফোকাস।",
+    "benefits": "Up to 50 Lakh, Subsidy, Training, Market linkage, Handholding support",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Transgender"
+      ],
+      "income_max": 1500000,
+      "business_types": [
+        "Manufacturing",
+        "Trading",
+        "Services",
+        "Agriculture",
+        "Street Vending",
+        "Handicraft",
+        "SHG",
+        "Food Processing"
+      ],
+      "min_age": 18,
+      "states": [
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "PAN",
+      "Business Proof",
+      "Caste Certificate if applicable",
+      "Bank Statement",
+      "Project Report"
+    ],
+    "loan_amount": "Up to 50 Lakh",
+    "application_link": "https://www.kviconline.gov.in/pmegpeportal/",
+    "tags": [
+      "SC",
+      "ST",
+      "OBC",
+      "Women",
+      "Marginalized",
+      "Entrepreneur"
+    ]
+  },
+  {
+    "id": "S004",
+    "name": "National SC/ST Hub Scheme",
+    "name_hi": "National SC/ST Hub Scheme योजना",
+    "name_bn": "National SC/ST Hub Scheme প্রকল্প",
+    "category": "Financial Support",
+    "ministry": "Ministry of MSME",
+    "description": "Supports SC/ST entrepreneurs in public procurement, market linkages, capacity building. Special focus on marginalized entrepreneurs, SC/ST/OBC, women, street vendors, SHG members and rural youth of India.",
+    "description_hi": "Supports SC/ST entrepreneurs in public procurement, market linkages, capacity building. हाशिए पर रहने वाले उद्यमियों पर विशेष ध्यान।",
+    "description_bn": "Supports SC/ST entrepreneurs in public procurement, market linkages, capacity building. প্রান্তিক উদ্যোক্তাদের উপর বিশেষ ফোকাস।",
+    "benefits": "Market Support, Subsidy, Training, Market linkage, Handholding support",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Transgender"
+      ],
+      "income_max": 1500000,
+      "business_types": [
+        "Manufacturing",
+        "Trading",
+        "Services",
+        "Agriculture",
+        "Street Vending",
+        "Handicraft",
+        "SHG",
+        "Food Processing"
+      ],
+      "min_age": 18,
+      "states": [
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "PAN",
+      "Business Proof",
+      "Caste Certificate if applicable",
+      "Bank Statement",
+      "Project Report"
+    ],
+    "loan_amount": "Market Support",
+    "application_link": "https://www.scsthub.in/",
+    "tags": [
+      "SC",
+      "ST",
+      "OBC",
+      "Women",
+      "Marginalized",
+      "Entrepreneur"
+    ]
+  },
+  {
+    "id": "S005",
+    "name": "Deendayal Antyodaya Yojana - NRLM",
+    "name_hi": "Deendayal Antyodaya Yojana - NRLM योजना",
+    "name_bn": "Deendayal Antyodaya Yojana - NRLM প্রকল্প",
+    "category": "Financial Support",
+    "ministry": "Ministry of Rural Development",
+    "description": "Poverty reduction via SHG women, self-employment, revolving fund, interest subvention. Special focus on marginalized entrepreneurs, SC/ST/OBC, women, street vendors, SHG members and rural youth of India.",
+    "description_hi": "Poverty reduction via SHG women, self-employment, revolving fund, interest subvention. हाशिए पर रहने वाले उद्यमियों पर विशेष ध्यान।",
+    "description_bn": "Poverty reduction via SHG women, self-employment, revolving fund, interest subvention. প্রান্তিক উদ্যোক্তাদের উপর বিশেষ ফোকাস।",
+    "benefits": "SHG Support, Subsidy, Training, Market linkage, Handholding support",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Transgender"
+      ],
+      "income_max": 1500000,
+      "business_types": [
+        "Manufacturing",
+        "Trading",
+        "Services",
+        "Agriculture",
+        "Street Vending",
+        "Handicraft",
+        "SHG",
+        "Food Processing"
+      ],
+      "min_age": 18,
+      "states": [
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "PAN",
+      "Business Proof",
+      "Caste Certificate if applicable",
+      "Bank Statement",
+      "Project Report"
+    ],
+    "loan_amount": "SHG Support",
+    "application_link": "https://aajeevika.gov.in/",
+    "tags": [
+      "SC",
+      "ST",
+      "OBC",
+      "Women",
+      "Marginalized",
+      "Entrepreneur"
+    ]
+  },
+  {
+    "id": "S006",
+    "name": "PM SVANidhi - Street Vendors",
+    "name_hi": "PM SVANidhi - Street Vendors योजना",
+    "name_bn": "PM SVANidhi - Street Vendors প্রকল্প",
+    "category": "Financial Support",
+    "ministry": "Ministry of Housing",
+    "description": "Micro-Credit for street vendors, collateral-free working capital loans, cashback. Special focus on marginalized entrepreneurs, SC/ST/OBC, women, street vendors, SHG members and rural youth of India.",
+    "description_hi": "Micro-Credit for street vendors, collateral-free working capital loans, cashback. हाशिए पर रहने वाले उद्यमियों पर विशेष ध्यान।",
+    "description_bn": "Micro-Credit for street vendors, collateral-free working capital loans, cashback. প্রান্তিক উদ্যোক্তাদের উপর বিশেষ ফোকাস।",
+    "benefits": "10k-50k, Subsidy, Training, Market linkage, Handholding support",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Transgender"
+      ],
+      "income_max": 1500000,
+      "business_types": [
+        "Manufacturing",
+        "Trading",
+        "Services",
+        "Agriculture",
+        "Street Vending",
+        "Handicraft",
+        "SHG",
+        "Food Processing"
+      ],
+      "min_age": 18,
+      "states": [
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "PAN",
+      "Business Proof",
+      "Caste Certificate if applicable",
+      "Bank Statement",
+      "Project Report"
+    ],
+    "loan_amount": "10k-50k",
+    "application_link": "https://pmsvanidhi.mohua.gov.in/",
+    "tags": [
+      "SC",
+      "ST",
+      "OBC",
+      "Women",
+      "Marginalized",
+      "Entrepreneur"
+    ]
+  },
+  {
+    "id": "S007",
+    "name": "Womaniya on GeM",
+    "name_hi": "Womaniya on GeM योजना",
+    "name_bn": "Womaniya on GeM প্রকল্প",
+    "category": "Financial Support",
+    "ministry": "Ministry of Commerce",
+    "description": "Women entrepreneurs sell on Government e-Marketplace, training and market access. Special focus on marginalized entrepreneurs, SC/ST/OBC, women, street vendors, SHG members and rural youth of India.",
+    "description_hi": "Women entrepreneurs sell on Government e-Marketplace, training and market access. हाशिए पर रहने वाले उद्यमियों पर विशेष ध्यान।",
+    "description_bn": "Women entrepreneurs sell on Government e-Marketplace, training and market access. প্রান্তিক উদ্যোক্তাদের উপর বিশেষ ফোকাস।",
+    "benefits": "Market Linkage, Subsidy, Training, Market linkage, Handholding support",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Transgender"
+      ],
+      "income_max": 1500000,
+      "business_types": [
+        "Manufacturing",
+        "Trading",
+        "Services",
+        "Agriculture",
+        "Street Vending",
+        "Handicraft",
+        "SHG",
+        "Food Processing"
+      ],
+      "min_age": 18,
+      "states": [
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "PAN",
+      "Business Proof",
+      "Caste Certificate if applicable",
+      "Bank Statement",
+      "Project Report"
+    ],
+    "loan_amount": "Market Linkage",
+    "application_link": "https://gem.gov.in/",
+    "tags": [
+      "SC",
+      "ST",
+      "OBC",
+      "Women",
+      "Marginalized",
+      "Entrepreneur"
+    ]
+  },
+  {
+    "id": "S008",
+    "name": "Mahila Coir Yojana",
+    "name_hi": "Mahila Coir Yojana योजना",
+    "name_bn": "Mahila Coir Yojana প্রকল্প",
+    "category": "Financial Support",
+    "ministry": "Ministry of MSME",
+    "description": "Skill training for women in coir sector with stipend. Special focus on marginalized entrepreneurs, SC/ST/OBC, women, street vendors, SHG members and rural youth of India.",
+    "description_hi": "Skill training for women in coir sector with stipend. हाशिए पर रहने वाले उद्यमियों पर विशेष ध्यान।",
+    "description_bn": "Skill training for women in coir sector with stipend. প্রান্তিক উদ্যোক্তাদের উপর বিশেষ ফোকাস।",
+    "benefits": "Stipend + Training, Subsidy, Training, Market linkage, Handholding support",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Transgender"
+      ],
+      "income_max": 1500000,
+      "business_types": [
+        "Manufacturing",
+        "Trading",
+        "Services",
+        "Agriculture",
+        "Street Vending",
+        "Handicraft",
+        "SHG",
+        "Food Processing"
+      ],
+      "min_age": 18,
+      "states": [
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "PAN",
+      "Business Proof",
+      "Caste Certificate if applicable",
+      "Bank Statement",
+      "Project Report"
+    ],
+    "loan_amount": "Stipend + Training",
+    "application_link": "https://coirboard.gov.in/",
+    "tags": [
+      "SC",
+      "ST",
+      "OBC",
+      "Women",
+      "Marginalized",
+      "Entrepreneur"
+    ]
+  },
+  {
+    "id": "S009",
+    "name": "NSFDC Loan Scheme",
+    "name_hi": "NSFDC Loan Scheme योजना",
+    "name_bn": "NSFDC Loan Scheme প্রকল্প",
+    "category": "Financial Support",
+    "ministry": "NSFDC",
+    "description": "Financial assistance to SC entrepreneurs by NSFDC at low interest. Special focus on marginalized entrepreneurs, SC/ST/OBC, women, street vendors, SHG members and rural youth of India.",
+    "description_hi": "Financial assistance to SC entrepreneurs by NSFDC at low interest. हाशिए पर रहने वाले उद्यमियों पर विशेष ध्यान।",
+    "description_bn": "Financial assistance to SC entrepreneurs by NSFDC at low interest. প্রান্তিক উদ্যোক্তাদের উপর বিশেষ ফোকাস।",
+    "benefits": "Up to 30 Lakh, Subsidy, Training, Market linkage, Handholding support",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Transgender"
+      ],
+      "income_max": 1500000,
+      "business_types": [
+        "Manufacturing",
+        "Trading",
+        "Services",
+        "Agriculture",
+        "Street Vending",
+        "Handicraft",
+        "SHG",
+        "Food Processing"
+      ],
+      "min_age": 18,
+      "states": [
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "PAN",
+      "Business Proof",
+      "Caste Certificate if applicable",
+      "Bank Statement",
+      "Project Report"
+    ],
+    "loan_amount": "Up to 30 Lakh",
+    "application_link": "https://nsfdc.nic.in/",
+    "tags": [
+      "SC",
+      "ST",
+      "OBC",
+      "Women",
+      "Marginalized",
+      "Entrepreneur"
+    ]
+  },
+  {
+    "id": "S010",
+    "name": "NBCFDC Loan for OBC",
+    "name_hi": "NBCFDC Loan for OBC योजना",
+    "name_bn": "NBCFDC Loan for OBC প্রকল্প",
+    "category": "Financial Support",
+    "ministry": "NBCFDC",
+    "description": "Concessional loans for OBC entrepreneurs for self-employment. Special focus on marginalized entrepreneurs, SC/ST/OBC, women, street vendors, SHG members and rural youth of India.",
+    "description_hi": "Concessional loans for OBC entrepreneurs for self-employment. हाशिए पर रहने वाले उद्यमियों पर विशेष ध्यान।",
+    "description_bn": "Concessional loans for OBC entrepreneurs for self-employment. প্রান্তিক উদ্যোক্তাদের উপর বিশেষ ফোকাস।",
+    "benefits": "Up to 20 Lakh, Subsidy, Training, Market linkage, Handholding support",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Transgender"
+      ],
+      "income_max": 1500000,
+      "business_types": [
+        "Manufacturing",
+        "Trading",
+        "Services",
+        "Agriculture",
+        "Street Vending",
+        "Handicraft",
+        "SHG",
+        "Food Processing"
+      ],
+      "min_age": 18,
+      "states": [
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "PAN",
+      "Business Proof",
+      "Caste Certificate if applicable",
+      "Bank Statement",
+      "Project Report"
+    ],
+    "loan_amount": "Up to 20 Lakh",
+    "application_link": "https://nbcfdc.gov.in/",
+    "tags": [
+      "SC",
+      "ST",
+      "OBC",
+      "Women",
+      "Marginalized",
+      "Entrepreneur"
+    ]
+  },
+  {
+    "id": "S011",
+    "name": "PM Vishwakarma",
+    "name_hi": "PM Vishwakarma योजना",
+    "name_bn": "PM Vishwakarma প্রকল্প",
+    "category": "Financial Support",
+    "ministry": "Ministry of MSME",
+    "description": "Support for traditional artisans and craftspeople with toolkit, training, credit, 5% interest. Special focus on marginalized entrepreneurs, SC/ST/OBC, women, street vendors, SHG members and rural youth of India.",
+    "description_hi": "Support for traditional artisans and craftspeople with toolkit, training, credit, 5% interest. हाशिए पर रहने वाले उद्यमियों पर विशेष ध्यान।",
+    "description_bn": "Support for traditional artisans and craftspeople with toolkit, training, credit, 5% interest. প্রান্তিক উদ্যোক্তাদের উপর বিশেষ ফোকাস।",
+    "benefits": "Toolkit + 3 Lakh, Subsidy, Training, Market linkage, Handholding support",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Transgender"
+      ],
+      "income_max": 1500000,
+      "business_types": [
+        "Manufacturing",
+        "Trading",
+        "Services",
+        "Agriculture",
+        "Street Vending",
+        "Handicraft",
+        "SHG",
+        "Food Processing"
+      ],
+      "min_age": 18,
+      "states": [
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "PAN",
+      "Business Proof",
+      "Caste Certificate if applicable",
+      "Bank Statement",
+      "Project Report"
+    ],
+    "loan_amount": "Toolkit + 3 Lakh",
+    "application_link": "https://pmvishwakarma.gov.in/",
+    "tags": [
+      "SC",
+      "ST",
+      "OBC",
+      "Women",
+      "Marginalized",
+      "Entrepreneur"
+    ]
+  },
+  {
+    "id": "S012",
+    "name": "One District One Product (ODOP)",
+    "name_hi": "One District One Product (ODOP) योजना",
+    "name_bn": "One District One Product (ODOP) প্রকল্প",
+    "category": "Financial Support",
+    "ministry": "State Govt",
+    "description": "Promotes one product per district for entrepreneurs, marketing and credit support. Special focus on marginalized entrepreneurs, SC/ST/OBC, women, street vendors, SHG members and rural youth of India.",
+    "description_hi": "Promotes one product per district for entrepreneurs, marketing and credit support. हाशिए पर रहने वाले उद्यमियों पर विशेष ध्यान।",
+    "description_bn": "Promotes one product per district for entrepreneurs, marketing and credit support. প্রান্তিক উদ্যোক্তাদের উপর বিশেষ ফোকাস।",
+    "benefits": "Marketing + Credit, Subsidy, Training, Market linkage, Handholding support",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Transgender"
+      ],
+      "income_max": 1500000,
+      "business_types": [
+        "Manufacturing",
+        "Trading",
+        "Services",
+        "Agriculture",
+        "Street Vending",
+        "Handicraft",
+        "SHG",
+        "Food Processing"
+      ],
+      "min_age": 18,
+      "states": [
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "PAN",
+      "Business Proof",
+      "Caste Certificate if applicable",
+      "Bank Statement",
+      "Project Report"
+    ],
+    "loan_amount": "Marketing + Credit",
+    "application_link": "https://odop.mofpi.gov.in/",
+    "tags": [
+      "SC",
+      "ST",
+      "OBC",
+      "Women",
+      "Marginalized",
+      "Entrepreneur"
+    ]
+  },
+  {
+    "id": "S013",
+    "name": "Credit Guarantee Scheme CGTMSE",
+    "name_hi": "Credit Guarantee Scheme CGTMSE योजना",
+    "name_bn": "Credit Guarantee Scheme CGTMSE প্রকল্প",
+    "category": "Financial Support",
+    "ministry": "Ministry of MSME",
+    "description": "Collateral-free credit guarantee for MSMEs up to 5 Cr. Special focus on marginalized entrepreneurs, SC/ST/OBC, women, street vendors, SHG members and rural youth of India.",
+    "description_hi": "Collateral-free credit guarantee for MSMEs up to 5 Cr. हाशिए पर रहने वाले उद्यमियों पर विशेष ध्यान।",
+    "description_bn": "Collateral-free credit guarantee for MSMEs up to 5 Cr. প্রান্তিক উদ্যোক্তাদের উপর বিশেষ ফোকাস।",
+    "benefits": "Up to 5 Cr guarantee, Subsidy, Training, Market linkage, Handholding support",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Transgender"
+      ],
+      "income_max": 1500000,
+      "business_types": [
+        "Manufacturing",
+        "Trading",
+        "Services",
+        "Agriculture",
+        "Street Vending",
+        "Handicraft",
+        "SHG",
+        "Food Processing"
+      ],
+      "min_age": 18,
+      "states": [
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "PAN",
+      "Business Proof",
+      "Caste Certificate if applicable",
+      "Bank Statement",
+      "Project Report"
+    ],
+    "loan_amount": "Up to 5 Cr guarantee",
+    "application_link": "https://www.cgtmse.in/",
+    "tags": [
+      "SC",
+      "ST",
+      "OBC",
+      "Women",
+      "Marginalized",
+      "Entrepreneur"
+    ]
+  },
+  {
+    "id": "S014",
+    "name": "PM Formalisation of Micro Food Processing (PMFME)",
+    "name_hi": "PM Formalisation of Micro Food Processing (PMFME) योजना",
+    "name_bn": "PM Formalisation of Micro Food Processing (PMFME) প্রকল্প",
+    "category": "Financial Support",
+    "ministry": "Ministry of Food Processing",
+    "description": "Support for micro food processing enterprises, SHG, FPO, 35% subsidy. Special focus on marginalized entrepreneurs, SC/ST/OBC, women, street vendors, SHG members and rural youth of India.",
+    "description_hi": "Support for micro food processing enterprises, SHG, FPO, 35% subsidy. हाशिए पर रहने वाले उद्यमियों पर विशेष ध्यान।",
+    "description_bn": "Support for micro food processing enterprises, SHG, FPO, 35% subsidy. প্রান্তিক উদ্যোক্তাদের উপর বিশেষ ফোকাস।",
+    "benefits": "35% Subsidy, Subsidy, Training, Market linkage, Handholding support",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Transgender"
+      ],
+      "income_max": 1500000,
+      "business_types": [
+        "Manufacturing",
+        "Trading",
+        "Services",
+        "Agriculture",
+        "Street Vending",
+        "Handicraft",
+        "SHG",
+        "Food Processing"
+      ],
+      "min_age": 18,
+      "states": [
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "PAN",
+      "Business Proof",
+      "Caste Certificate if applicable",
+      "Bank Statement",
+      "Project Report"
+    ],
+    "loan_amount": "35% Subsidy",
+    "application_link": "https://pmfme.mofpi.gov.in/",
+    "tags": [
+      "SC",
+      "ST",
+      "OBC",
+      "Women",
+      "Marginalized",
+      "Entrepreneur"
+    ]
+  },
+  {
+    "id": "S015",
+    "name": "Agri-Clinics and Agri-Business Centres ACABC",
+    "name_hi": "Agri-Clinics and Agri-Business Centres ACABC योजना",
+    "name_bn": "Agri-Clinics and Agri-Business Centres ACABC প্রকল্প",
+    "category": "Financial Support",
+    "ministry": "Ministry of Agriculture",
+    "description": "Support for agripreneurs, agri graduates for agri clinics. Special focus on marginalized entrepreneurs, SC/ST/OBC, women, street vendors, SHG members and rural youth of India.",
+    "description_hi": "Support for agripreneurs, agri graduates for agri clinics. हाशिए पर रहने वाले उद्यमियों पर विशेष ध्यान।",
+    "description_bn": "Support for agripreneurs, agri graduates for agri clinics. প্রান্তিক উদ্যোক্তাদের উপর বিশেষ ফোকাস।",
+    "benefits": "Up to 20 Lakh, Subsidy, Training, Market linkage, Handholding support",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Transgender"
+      ],
+      "income_max": 1500000,
+      "business_types": [
+        "Manufacturing",
+        "Trading",
+        "Services",
+        "Agriculture",
+        "Street Vending",
+        "Handicraft",
+        "SHG",
+        "Food Processing"
+      ],
+      "min_age": 18,
+      "states": [
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "PAN",
+      "Business Proof",
+      "Caste Certificate if applicable",
+      "Bank Statement",
+      "Project Report"
+    ],
+    "loan_amount": "Up to 20 Lakh",
+    "application_link": "https://www.agriclinics.net/",
+    "tags": [
+      "SC",
+      "ST",
+      "OBC",
+      "Women",
+      "Marginalized",
+      "Entrepreneur"
+    ]
+  },
+  {
+    "id": "S016",
+    "name": "NABARD Dairy Entrepreneurship",
+    "name_hi": "NABARD Dairy Entrepreneurship योजना",
+    "name_bn": "NABARD Dairy Entrepreneurship প্রকল্প",
+    "category": "Financial Support",
+    "ministry": "NABARD",
+    "description": "Dairy entrepreneurship development for SC/ST, women, rural youth. Special focus on marginalized entrepreneurs, SC/ST/OBC, women, street vendors, SHG members and rural youth of India.",
+    "description_hi": "Dairy entrepreneurship development for SC/ST, women, rural youth. हाशिए पर रहने वाले उद्यमियों पर विशेष ध्यान।",
+    "description_bn": "Dairy entrepreneurship development for SC/ST, women, rural youth. প্রান্তিক উদ্যোক্তাদের উপর বিশেষ ফোকাস।",
+    "benefits": "Up to 30 Lakh, Subsidy, Training, Market linkage, Handholding support",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Transgender"
+      ],
+      "income_max": 1500000,
+      "business_types": [
+        "Manufacturing",
+        "Trading",
+        "Services",
+        "Agriculture",
+        "Street Vending",
+        "Handicraft",
+        "SHG",
+        "Food Processing"
+      ],
+      "min_age": 18,
+      "states": [
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "PAN",
+      "Business Proof",
+      "Caste Certificate if applicable",
+      "Bank Statement",
+      "Project Report"
+    ],
+    "loan_amount": "Up to 30 Lakh",
+    "application_link": "https://www.nabard.org/",
+    "tags": [
+      "SC",
+      "ST",
+      "OBC",
+      "Women",
+      "Marginalized",
+      "Entrepreneur"
+    ]
+  },
+  {
+    "id": "S017",
+    "name": "Poultry Venture Capital Fund",
+    "name_hi": "Poultry Venture Capital Fund योजना",
+    "name_bn": "Poultry Venture Capital Fund প্রকল্প",
+    "category": "Financial Support",
+    "ministry": "NABARD",
+    "description": "Support for poultry farming, layer and broiler. Special focus on marginalized entrepreneurs, SC/ST/OBC, women, street vendors, SHG members and rural youth of India.",
+    "description_hi": "Support for poultry farming, layer and broiler. हाशिए पर रहने वाले उद्यमियों पर विशेष ध्यान।",
+    "description_bn": "Support for poultry farming, layer and broiler. প্রান্তিক উদ্যোক্তাদের উপর বিশেষ ফোকাস।",
+    "benefits": "Up to 25 Lakh, Subsidy, Training, Market linkage, Handholding support",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Transgender"
+      ],
+      "income_max": 1500000,
+      "business_types": [
+        "Manufacturing",
+        "Trading",
+        "Services",
+        "Agriculture",
+        "Street Vending",
+        "Handicraft",
+        "SHG",
+        "Food Processing"
+      ],
+      "min_age": 18,
+      "states": [
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "PAN",
+      "Business Proof",
+      "Caste Certificate if applicable",
+      "Bank Statement",
+      "Project Report"
+    ],
+    "loan_amount": "Up to 25 Lakh",
+    "application_link": "https://www.nabard.org/",
+    "tags": [
+      "SC",
+      "ST",
+      "OBC",
+      "Women",
+      "Marginalized",
+      "Entrepreneur"
+    ]
+  },
+  {
+    "id": "S018",
+    "name": "ASPIRE Scheme",
+    "name_hi": "ASPIRE Scheme योजना",
+    "name_bn": "ASPIRE Scheme প্রকল্প",
+    "category": "Financial Support",
+    "ministry": "Ministry of MSME",
+    "description": "Incubation for rural entrepreneurship and agro-industry, innovation. Special focus on marginalized entrepreneurs, SC/ST/OBC, women, street vendors, SHG members and rural youth of India.",
+    "description_hi": "Incubation for rural entrepreneurship and agro-industry, innovation. हाशिए पर रहने वाले उद्यमियों पर विशेष ध्यान।",
+    "description_bn": "Incubation for rural entrepreneurship and agro-industry, innovation. প্রান্তিক উদ্যোক্তাদের উপর বিশেষ ফোকাস।",
+    "benefits": "Incubation Support, Subsidy, Training, Market linkage, Handholding support",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Transgender"
+      ],
+      "income_max": 1500000,
+      "business_types": [
+        "Manufacturing",
+        "Trading",
+        "Services",
+        "Agriculture",
+        "Street Vending",
+        "Handicraft",
+        "SHG",
+        "Food Processing"
+      ],
+      "min_age": 18,
+      "states": [
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "PAN",
+      "Business Proof",
+      "Caste Certificate if applicable",
+      "Bank Statement",
+      "Project Report"
+    ],
+    "loan_amount": "Incubation Support",
+    "application_link": "https://aspire.msme.gov.in/",
+    "tags": [
+      "SC",
+      "ST",
+      "OBC",
+      "Women",
+      "Marginalized",
+      "Entrepreneur"
+    ]
+  },
+  {
+    "id": "S019",
+    "name": "SFURTI - Clusters",
+    "name_hi": "SFURTI - Clusters योजना",
+    "name_bn": "SFURTI - Clusters প্রকল্প",
+    "category": "Financial Support",
+    "ministry": "Ministry of MSME",
+    "description": "Cluster development for traditional industries, khadi, coir, handicraft. Special focus on marginalized entrepreneurs, SC/ST/OBC, women, street vendors, SHG members and rural youth of India.",
+    "description_hi": "Cluster development for traditional industries, khadi, coir, handicraft. हाशिए पर रहने वाले उद्यमियों पर विशेष ध्यान।",
+    "description_bn": "Cluster development for traditional industries, khadi, coir, handicraft. প্রান্তিক উদ্যোক্তাদের উপর বিশেষ ফোকাস।",
+    "benefits": "Up to 5 Cr per cluster, Subsidy, Training, Market linkage, Handholding support",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Transgender"
+      ],
+      "income_max": 1500000,
+      "business_types": [
+        "Manufacturing",
+        "Trading",
+        "Services",
+        "Agriculture",
+        "Street Vending",
+        "Handicraft",
+        "SHG",
+        "Food Processing"
+      ],
+      "min_age": 18,
+      "states": [
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "PAN",
+      "Business Proof",
+      "Caste Certificate if applicable",
+      "Bank Statement",
+      "Project Report"
+    ],
+    "loan_amount": "Up to 5 Cr per cluster",
+    "application_link": "https://sfurti.mgiri.in/",
+    "tags": [
+      "SC",
+      "ST",
+      "OBC",
+      "Women",
+      "Marginalized",
+      "Entrepreneur"
+    ]
+  },
+  {
+    "id": "S020",
+    "name": "MSME Champions",
+    "name_hi": "MSME Champions योजना",
+    "name_bn": "MSME Champions প্রকল্প",
+    "category": "Financial Support",
+    "ministry": "Ministry of MSME",
+    "description": "Comprehensive support for MSME growth, lean, design, IPR. Special focus on marginalized entrepreneurs, SC/ST/OBC, women, street vendors, SHG members and rural youth of India.",
+    "description_hi": "Comprehensive support for MSME growth, lean, design, IPR. हाशिए पर रहने वाले उद्यमियों पर विशेष ध्यान।",
+    "description_bn": "Comprehensive support for MSME growth, lean, design, IPR. প্রান্তিক উদ্যোক্তাদের উপর বিশেষ ফোকাস।",
+    "benefits": "Support Services, Subsidy, Training, Market linkage, Handholding support",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female",
+        "Transgender"
+      ],
+      "income_max": 1500000,
+      "business_types": [
+        "Manufacturing",
+        "Trading",
+        "Services",
+        "Agriculture",
+        "Street Vending",
+        "Handicraft",
+        "SHG",
+        "Food Processing"
+      ],
+      "min_age": 18,
+      "states": [
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "PAN",
+      "Business Proof",
+      "Caste Certificate if applicable",
+      "Bank Statement",
+      "Project Report"
+    ],
+    "loan_amount": "Support Services",
+    "application_link": "https://champions.gov.in/",
+    "tags": [
+      "SC",
+      "ST",
+      "OBC",
+      "Women",
+      "Marginalized",
+      "Entrepreneur"
+    ]
+  },
+  {
+    "id": "S021",
+    "name": "West Bengal - Bangla Shilpa MSME Support 21",
+    "name_hi": "बंगाल शिल्प सहायता योजना 21",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 21",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 1 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S022",
+    "name": "West Bengal - Bangla Shilpa MSME Support 22",
+    "name_hi": "बंगाल शिल्प सहायता योजना 22",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 22",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 2 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S023",
+    "name": "West Bengal - Bangla Shilpa MSME Support 23",
+    "name_hi": "बंगाल शिल्प सहायता योजना 23",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 23",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 3 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S024",
+    "name": "West Bengal - Bangla Shilpa MSME Support 24",
+    "name_hi": "बंगाल शिल्प सहायता योजना 24",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 24",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 4 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S025",
+    "name": "West Bengal - Bangla Shilpa MSME Support 25",
+    "name_hi": "बंगाल शिल्प सहायता योजना 25",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 25",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 5 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S026",
+    "name": "West Bengal - Bangla Shilpa MSME Support 26",
+    "name_hi": "बंगाल शिल्प सहायता योजना 26",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 26",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 6 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S027",
+    "name": "West Bengal - Bangla Shilpa MSME Support 27",
+    "name_hi": "बंगाल शिल्प सहायता योजना 27",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 27",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 7 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S028",
+    "name": "West Bengal - Bangla Shilpa MSME Support 28",
+    "name_hi": "बंगाल शिल्प सहायता योजना 28",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 28",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 8 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S029",
+    "name": "West Bengal - Bangla Shilpa MSME Support 29",
+    "name_hi": "बंगाल शिल्प सहायता योजना 29",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 29",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 9 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S030",
+    "name": "West Bengal - Bangla Shilpa MSME Support 30",
+    "name_hi": "बंगाल शिल्प सहायता योजना 30",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 30",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 10 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S031",
+    "name": "West Bengal - Bangla Shilpa MSME Support 31",
+    "name_hi": "बंगाल शिल्प सहायता योजना 31",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 31",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 11 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S032",
+    "name": "West Bengal - Bangla Shilpa MSME Support 32",
+    "name_hi": "बंगाल शिल्प सहायता योजना 32",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 32",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 12 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S033",
+    "name": "West Bengal - Bangla Shilpa MSME Support 33",
+    "name_hi": "बंगाल शिल्प सहायता योजना 33",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 33",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 13 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S034",
+    "name": "West Bengal - Bangla Shilpa MSME Support 34",
+    "name_hi": "बंगाल शिल्प सहायता योजना 34",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 34",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 14 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S035",
+    "name": "West Bengal - Bangla Shilpa MSME Support 35",
+    "name_hi": "बंगाल शिल्प सहायता योजना 35",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 35",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 15 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S036",
+    "name": "West Bengal - Bangla Shilpa MSME Support 36",
+    "name_hi": "बंगाल शिल्प सहायता योजना 36",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 36",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 16 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S037",
+    "name": "West Bengal - Bangla Shilpa MSME Support 37",
+    "name_hi": "बंगाल शिल्प सहायता योजना 37",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 37",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 17 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S038",
+    "name": "West Bengal - Bangla Shilpa MSME Support 38",
+    "name_hi": "बंगाल शिल्प सहायता योजना 38",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 38",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 18 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S039",
+    "name": "West Bengal - Bangla Shilpa MSME Support 39",
+    "name_hi": "बंगाल शिल्प सहायता योजना 39",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 39",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 19 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S040",
+    "name": "West Bengal - Bangla Shilpa MSME Support 40",
+    "name_hi": "बंगाल शिल्प सहायता योजना 40",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 40",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 20 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S041",
+    "name": "West Bengal - Bangla Shilpa MSME Support 41",
+    "name_hi": "बंगाल शिल्प सहायता योजना 41",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 41",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 21 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S042",
+    "name": "West Bengal - Bangla Shilpa MSME Support 42",
+    "name_hi": "बंगाल शिल्प सहायता योजना 42",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 42",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 22 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S043",
+    "name": "West Bengal - Bangla Shilpa MSME Support 43",
+    "name_hi": "बंगाल शिल्प सहायता योजना 43",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 43",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 23 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S044",
+    "name": "West Bengal - Bangla Shilpa MSME Support 44",
+    "name_hi": "बंगाल शिल्प सहायता योजना 44",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 44",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 24 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S045",
+    "name": "West Bengal - Bangla Shilpa MSME Support 45",
+    "name_hi": "बंगाल शिल्प सहायता योजना 45",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 45",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 25 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S046",
+    "name": "West Bengal - Bangla Shilpa MSME Support 46",
+    "name_hi": "बंगाल शिल्प सहायता योजना 46",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 46",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 26 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S047",
+    "name": "West Bengal - Bangla Shilpa MSME Support 47",
+    "name_hi": "बंगाल शिल्प सहायता योजना 47",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 47",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 27 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S048",
+    "name": "West Bengal - Bangla Shilpa MSME Support 48",
+    "name_hi": "बंगाल शिल्प सहायता योजना 48",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 48",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 28 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S049",
+    "name": "West Bengal - Bangla Shilpa MSME Support 49",
+    "name_hi": "बंगाल शिल्प सहायता योजना 49",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 49",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 29 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S050",
+    "name": "West Bengal - Bangla Shilpa MSME Support 50",
+    "name_hi": "बंगाल शिल्प सहायता योजना 50",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 50",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 30 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S051",
+    "name": "West Bengal - Bangla Shilpa MSME Support 51",
+    "name_hi": "बंगाल शिल्प सहायता योजना 51",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 51",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 31 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S052",
+    "name": "West Bengal - Bangla Shilpa MSME Support 52",
+    "name_hi": "बंगाल शिल्प सहायता योजना 52",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 52",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 32 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S053",
+    "name": "West Bengal - Bangla Shilpa MSME Support 53",
+    "name_hi": "बंगाल शिल्प सहायता योजना 53",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 53",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 33 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S054",
+    "name": "West Bengal - Bangla Shilpa MSME Support 54",
+    "name_hi": "बंगाल शिल्प सहायता योजना 54",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 54",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 34 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S055",
+    "name": "West Bengal - Bangla Shilpa MSME Support 55",
+    "name_hi": "बंगाल शिल्प सहायता योजना 55",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 55",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 35 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S056",
+    "name": "West Bengal - Bangla Shilpa MSME Support 56",
+    "name_hi": "बंगाल शिल्प सहायता योजना 56",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 56",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 36 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S057",
+    "name": "West Bengal - Bangla Shilpa MSME Support 57",
+    "name_hi": "बंगाल शिल्प सहायता योजना 57",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 57",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 37 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S058",
+    "name": "West Bengal - Bangla Shilpa MSME Support 58",
+    "name_hi": "बंगाल शिल्प सहायता योजना 58",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 58",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 38 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S059",
+    "name": "West Bengal - Bangla Shilpa MSME Support 59",
+    "name_hi": "बंगाल शिल्प सहायता योजना 59",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 59",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 39 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S060",
+    "name": "West Bengal - Bangla Shilpa MSME Support 60",
+    "name_hi": "बंगाल शिल्प सहायता योजना 60",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 60",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 40 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S061",
+    "name": "West Bengal - Bangla Shilpa MSME Support 61",
+    "name_hi": "बंगाल शिल्प सहायता योजना 61",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 61",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 41 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S062",
+    "name": "West Bengal - Bangla Shilpa MSME Support 62",
+    "name_hi": "बंगाल शिल्प सहायता योजना 62",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 62",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 42 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S063",
+    "name": "West Bengal - Bangla Shilpa MSME Support 63",
+    "name_hi": "बंगाल शिल्प सहायता योजना 63",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 63",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 43 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  },
+  {
+    "id": "S064",
+    "name": "West Bengal - Bangla Shilpa MSME Support 64",
+    "name_hi": "बंगाल शिल्प सहायता योजना 64",
+    "name_bn": "বাংলা শিল্প সহায়তা প্রকল্প 64",
+    "category": "State Support",
+    "ministry": "Govt of West Bengal - MSME Dept",
+    "description": "West Bengal state scheme for district 44 entrepreneurs - financial assistance up to 5 lakh, skill training, marketing support for SC/ST/Minority/Women SHGs, artisan clusters.",
+    "description_hi": "पश्चिम बंगाल में एससी/एसटी/महिला उद्यमियों के लिए राज्य योजना, 40% सब्सिडी।",
+    "description_bn": "পশ্চিমবঙ্গে এসসি/এসটি/মহিলা উদ্যোক্তাদের জন্য রাজ্য প্রকল্প, ৪০% ভর্তুকি।",
+    "benefits": "40% subsidy up to 1.5 Lakh, Training, Stall support, Marketing",
+    "eligibility": {
+      "caste": [
+        "SC",
+        "ST",
+        "OBC",
+        "General"
+      ],
+      "gender": [
+        "Male",
+        "Female"
+      ],
+      "income_max": 800000,
+      "business_types": [
+        "Handicraft",
+        "Agriculture",
+        "Services",
+        "Trading",
+        "Food Processing",
+        "Jute",
+        "Handloom"
+      ],
+      "min_age": 18,
+      "states": [
+        "West Bengal",
+        "All"
+      ]
+    },
+    "documents": [
+      "Aadhaar",
+      "Residence Proof",
+      "Caste Certificate",
+      "Income Certificate",
+      "Trade License"
+    ],
+    "loan_amount": "Up to 5 Lakh",
+    "application_link": "https://wbmsme.gov.in/",
+    "tags": [
+      "West Bengal",
+      "State",
+      "SC/ST",
+      "Women",
+      "Handicraft"
+    ]
+  }
+]

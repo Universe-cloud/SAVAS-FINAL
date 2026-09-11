@@ -1,0 +1,10 @@
+[
+  {
+    "user_id": "USER_0002",
+    "scheme_id": "S001",
+    "applied": true,
+    "success": false,
+    "timestamp": "2026-09-12T04:11:08.449927",
+    "stage": "Applied"
+  }
+]

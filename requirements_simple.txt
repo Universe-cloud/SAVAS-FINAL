@@ -1,0 +1,15 @@
+streamlit
+python-dotenv
+pandas
+scikit-learn
+fpdf2
+PyPDF2
+Pillow
+deep-translator
+gTTS
+SpeechRecognition
+twilio
+pydub
+
+PyPDF2
+Pillow
