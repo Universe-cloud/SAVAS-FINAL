@@ -63,7 +63,16 @@ def verify_otp(session, input_otp):
         return False, "Too many attempts. Please request new OTP."
     
     session["attempts"] += 1
-    
+
+    # DEMO MODE FALLBACK — for hackathon/judge demo only.
+    # Set DEMO_MODE=true in .env to accept a fixed OTP when real email/SMS delivery isn't set up yet.
+    demo_mode = os.getenv("DEMO_MODE", "false").lower() == "true"
+    demo_otp = os.getenv("DEMO_OTP", "123456")
+
+    if demo_mode and input_otp == demo_otp:
+        session["verified"] = True
+        return True, "OTP verified successfully! (Demo mode)"
+
     if hash_otp(input_otp) == session.get("otp_hash"):
         session["verified"] = True
         return True, "OTP verified successfully!"
